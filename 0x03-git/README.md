@@ -22,3 +22,8 @@ Task 3; Collaboration is the base of a company
 	.Update;
 		bash/alx
 	.Delete js
+
+Task 4; Collaboration: be up to date
+	.Update readme on GH
+	.Create new file:
+                up_to_date
