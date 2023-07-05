@@ -36,5 +36,5 @@ Task 5; HAAA what did you do???
 =======
 >>>>>>> update_script
 Task 5; HAAA what did you do???
-       .Merge update_script to main
-       .Your goal now is to resolve conflicts by using the version of the branch update_script, and push the result to the origin.
+        .Merge update_script to main
+        .Your goal now is to resolve conflicts by using the version of the branch update_script, and push the result to the origin.
