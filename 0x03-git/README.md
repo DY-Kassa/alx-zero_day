@@ -30,15 +30,11 @@ Task 4; Collaboration: be up to date
                 up_to_date
         .Add, commit and push
 
-=======
-	-My personal work-
-	.Branch to update_script
-	.Create an empty file named bash/98
-	.Update:
-		bash/alx
-		bash/school
-	-Hot fix-
-        .Update;
-                bash/alx
-        .Delete js
+Task 5; HAAA what did you do???
+        .Merge update_script to main
+        .Your goal now is to resolve conflicts by using the version of the branch update_script, and push the result to the origin.
+
 >>>>>>> update_script
+Task 5; HAAA what did you do???
+       .Merge update_script to main
+       .Your goal now is to resolve conflicts by using the version of the branch update_script, and push the result to the origin.
