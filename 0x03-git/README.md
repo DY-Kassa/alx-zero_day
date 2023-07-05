@@ -18,3 +18,7 @@ Task 3; Collaboration is the base of a company
 	.Update:
 		bash/alx
 		bash/school
+	-Hot fix-
+        .Update;
+                bash/alx
+        .Delete js
