@@ -12,6 +12,7 @@ Task 2; Coding fury road
 		bash/school
 
 Task 3; Collaboration is the base of a company
+<<<<<<< HEAD
         -My personal work-
 	.Branch to update_script
         .Create an empty file named bash/98
@@ -29,3 +30,15 @@ Task 4; Collaboration: be up to date
                 up_to_date
         .Add, commit and push
 
+=======
+	-My personal work-
+	.Branch to update_script
+	.Create an empty file named bash/98
+	.Update:
+		bash/alx
+		bash/school
+	-Hot fix-
+        .Update;
+                bash/alx
+        .Delete js
+>>>>>>> update_script
